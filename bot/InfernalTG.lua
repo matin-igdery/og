@@ -234,21 +234,17 @@ function create_config( )
     "tagall",
     
     },
-    sudo_users = {109722284,99743635,171604508},--Sudo users
+    sudo_users = {270275649},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[infernalTG  v2 - Open Source
 An advance Administration bot based on yagop/telegram-bot 
  
- our official github :
- https://github.com/INFERNALTEAM/InfernalTG.git
-Antispambot : @InfernalTG
-website ; https://arash-infernal.epage.ir
+Antispambot : @OrginalGaming
+website ; http://orginal-gaming.ir
 Admins
-@Creed_is_dead [Founder]
-@digitalboys [Developer]
-@Arashinfernal [Developer]
-@MustafFlux [Manager]
+@gnbd_army [Developer]
+@uncharted_DreaM [Manager]
 
 Special thanks to
 Imandaneshi
@@ -256,10 +252,9 @@ thisisarman
 yago perez ...
 and more ...
 
-Our channels
-@Infernalteamch [English]
-@infernalchannel [persian]
-@Infernalteam [persian]
+Our channel:
+@orginalbot [persian]
+@orginalteam [persian]
 ]],
     help_text_realm = [[
 group admin Commands:
@@ -317,7 +312,7 @@ group admin Commands:
 *Only admins and sudo can use res, setowner, commands
 ]],
     help_text = [[
-tools for InfernalTG :
+tools for OrginalBoT :
 
 >#1.Add_bot
 >#2.Anti_Bot
@@ -354,8 +349,8 @@ tools for InfernalTG :
 >#32.share
 help all plugin soon :D ,"
 You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+Master admin : @gnbd_army ,"
+our channel : @orginalteam ,"
 
 ]]
   }
